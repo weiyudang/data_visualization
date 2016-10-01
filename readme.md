@@ -7,5 +7,5 @@
 ## 主要可视化包
 - [vincent](https://github.com/wrobstory/vincent)  将Python数据结构转换为Vega可视化语法。
 - [bokeh](https://github.com/bokeh/bokeh)          Python的交互式Web绘图库。
-- [ggplot](http://yhat.github.io/ggplot/)            和R语言里的ggplot2提供同样的API。
-- [matplotlib](http://matplotlib.org/) —Python的2D绘图库。
+- [ggplot](http://yhat.github.io/ggplot/)          和R语言里的ggplot2提供同样的API。
+- [matplotlib](http://matplotlib.org/)             Python的2D绘图库。
