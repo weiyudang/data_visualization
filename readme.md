@@ -9,3 +9,4 @@
 - [bokeh](https://github.com/bokeh/bokeh)          Python的交互式Web绘图库。
 - [ggplot](http://yhat.github.io/ggplot/)          和R语言里的ggplot2提供同样的API。
 - [matplotlib](http://matplotlib.org/)             Python的2D绘图库。
+- [serborn](http://www.stanford.edu/~mwaskom/software/seaborn/) #基于matplotlib 开发的，所以与matplotlib有良好的兼容性说
