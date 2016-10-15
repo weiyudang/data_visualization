@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 9300.16.0726.1843                                -->
+<mapsource inline='true' source-platform='win' version='9.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='OGC-WMS' description='http://demo.cubewerx.com/demo/cubeserv/cubeserv.cgi?CONFIG=main&amp;' full-url='http://demo.cubewerx.com/demo/cubeserv/cubeserv.cgi?CONFIG=main&amp;' inline='true' offline='' port='80' server='demo.cubewerx.com' service='http' tileset='US\normal' url='/demo/cubeserv/cubeserv.cgi?CONFIG=main&amp;' use-tiled-maps='true' />
+  <languages />
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='9.3'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='Foundation.coastl_1m' value='true' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>

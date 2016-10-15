@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 9300.16.0726.1843                                -->
+<mapsource inline='true' source-platform='win' version='9.3' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection api-key='sk.eyJ1IjoidWx5c3NlcyIsImEiOiJjaXVhdG9qYTgwMDBlMnZ1dm52YjRxZDQ1In0.lVGx3EsA5jlTtESuD1VNdw' class='MapBox' description='Mapbox 室外' full-url='https://api.mapbox.com/v4/{L}/{Z}/{X}/{Y}{D}.png256?access_token=sk.eyJ1IjoidWx5c3NlcyIsImEiOiJjaXVhdG9qYTgwMDBlMnZ1dm52YjRxZDQ1In0.lVGx3EsA5jlTtESuD1VNdw' inline='true' layer-separator=',' offline='' port='443' server='api.mapbox.com' service='https' tileset='US\normal' url-format='/v4/{L}/{Z}/{X}/{Y}{D}.png256?access_token=sk.eyJ1IjoidWx5c3NlcyIsImEiOiJjaXVhdG9qYTgwMDBlMnZ1dm52YjRxZDQ1In0.lVGx3EsA5jlTtESuD1VNdw' username='' wait-tile-color='#dddddd' />
+  <languages />
+  <layers>
+    <layer display-name='Mapbox Outdoors' name='mapbox.outdoors' show-ui='true' type='features' />
+  </layers>
+  <properties />
+  <map-styles>
+    <map-style display-name='mapbox://styles/ulysses/ciuatepj4001k2inwxg42q6k6' name='mapbox://styles/ulysses/ciuatepj4001k2inwxg42q6k6' wait-tile-color='#dddddd'>
+      <map-layer-style name='Mapbox Outdoors' request-string='mapbox.outdoors' />
+    </map-style>
+  </map-styles>
+  <mapsource-defaults version='9.3'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='mapbox.outdoors' value='true' />
+      </style-rule>
+      <style-rule element='map'>
+        <format attr='washout' value='0' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+  <map-attribution copyright-string='关于地图' copyright-url='http://www.tableau.com/mapdata' short-copyright-string='' />
+</mapsource>
